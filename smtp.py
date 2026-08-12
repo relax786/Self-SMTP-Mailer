@@ -188,7 +188,7 @@ class Database:
         self.conn.commit()
 
         if not self.conn.execute("SELECT 1 FROM users LIMIT 1").fetchone():
-            self.create_user("admin", "admin", "admin")
+            self.create_user("admin", "Hunter@123#", "admin")
             self.log("INFO", "First-run administrator created")
 
     # ---------------- USERS ----------------
