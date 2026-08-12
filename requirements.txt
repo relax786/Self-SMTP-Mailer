@@ -1,1 +1,2 @@
+grep -E '^import |^from ' smtp.py
 
