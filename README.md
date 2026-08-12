@@ -54,10 +54,6 @@ python smtp_mailer.py
 admin : Hunter@123# 
 _______________________________________________________________________________________
 
-
-
-
-
 <img width="1584" height="652" alt="Screenshot_2026-08-12_12-00-43" src="https://github.com/user-attachments/assets/09e9885c-f5c0-4733-bd1d-d62a7896e68e" />
 <img width="1312" height="871" alt="Screenshot_2026-08-12_12-01-45" src="https://github.com/user-attachments/assets/54d805ec-d82d-463b-aff9-f77af5c3e4ec" />
 <img width="1306" height="879" alt="Screenshot_2026-08-12_12-01-37" src="https://github.com/user-attachments/assets/c7efbfde-ff7f-4a14-90bc-bb516a81c221" />
